@@ -1,13 +1,17 @@
-Türkiye Cumhuriyeti Kimlik Numarası Algoritma Kuralları:
+# Türkiye Cumhuriyeti Kimlik Numarası Sorgulama Sistemi
 
-  Türkiye Cumhuriyeti Kimlik Numarası 11 haneli rakamlardan oluşur.
+## Türkiye Cumhuriyeti Kimlik Numarası Algoritma Kuralları:
 
-  İlk rakam sıfır (0) olamaz.
+  \ Türkiye Cumhuriyeti Kimlik Numarası 11 haneli rakamlardan oluşur.
 
-  1, 3, 5, 7 ve 9. hanelerin toplamının 7 katı ile 2, 4, 6 ve 8. hanelerin toplamı çıkartılır, sonucun 10’a bölümünden kalanı 10. haneyi verir.
+  \ İlk rakam sıfır (0) olamaz.
 
-  İlk 10 hanenin toplamının 10’a bölümünden kalan, son haneyi verir.
+  \ 1, 3, 5, 7 ve 9. hanelerin toplamının 7 katı ile 2, 4, 6 ve 8. hanelerin toplamı çıkartılır, sonucun 10’a bölümünden kalanı 10. haneyi verir.
 
-  Ayrıca çeşitli hatalı kabul edilen TC kimlik numaraları vardır.
+  \ İlk 10 hanenin toplamının 10’a bölümünden kalan, son haneyi verir.
 
-  Kontrol sorgusu yapılabilir, bazı istisnalara sahiptir.
+  \ Ayrıca çeşitli hatalı kabul edilen TC kimlik numaraları vardır.
+
+  \ Kontrol sorgusu yapılabilir, bazı istisnalara sahiptir.
+
+*Python 3.8.2 ile yazılmıştır*
