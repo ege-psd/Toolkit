@@ -1,3 +1,7 @@
-Hesap makinesi Python 3.8.2 kullanılarak yazılmıştır. If, elif, else komutları kullanılmıştır.
+# Hesap Makinesi
 
-Hesap makinesi v2 Python 3.8.2 kullanılarak yazılmıştır. Def fonksiyonu kullanılmıştır.
+## Hesap makinesi 4 temel matematik işlemini -toplama, çıkarma, çarpma, bölme- yapabilmektedir. If, elif, else koşullu ifadeleri kullanılmıştır.
+
+## Hesap makinesi v2 4 temel matematik işlemini -toplama, çıkarma, çarpma, bölme- yapabilmektedir. Def fonksiyonu kullanılmıştır.
+
+*Python 3.8.2 ile yazılmıştır*
