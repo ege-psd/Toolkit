@@ -1,6 +1,6 @@
 # Türkiye Cumhuriyeti Kimlik Numarası Sorgulama Sistemi
 
-## Türkiye Cumhuriyeti Kimlik Numarası Algoritma Kuralları:
+##### Türkiye Cumhuriyeti Kimlik Numarası Algoritma Kuralları:
 
   \ Türkiye Cumhuriyeti Kimlik Numarası 11 haneli rakamlardan oluşur.
 
