@@ -1,4 +1,3 @@
-# Basit Hesap Makinesi#
 while True:
     print('Hesap Makinesi İşleme Hazırdır.')
     try:
