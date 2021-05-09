@@ -2,10 +2,10 @@ print('Hesap Makinesi Hizmete Hazırdır.')
 
 while True:
     print('''
-Toplama İşlemi İçin 1 Değeri Giriniz
-Çıkarma İşlemi İçin 2 Değeri Giriniz
-Çarpma İşlemi İçin 3 Değeri Giriniz
-Bölme İşlemi İçin 4 Değeri Giriniz
+Toplama İşlemi İçin 1 Değeri Giriniz.
+Çıkarma İşlemi İçin 2 Değeri Giriniz.
+Çarpma İşlemi İçin 3 Değeri Giriniz.
+Bölme İşlemi İçin 4 Değeri Giriniz.
     ''')
 
     try:
