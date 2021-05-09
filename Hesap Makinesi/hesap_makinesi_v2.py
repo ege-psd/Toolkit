@@ -1,6 +1,6 @@
-while True:
+print('Hesap Makinesi Hizmetinizdedir.')
 
-    print('Hesap Makinesi Hizmetinizdedir.')
+while True:
 
     try:
         print('Toplama İşlemi: 1\nÇıkarma İşlemi: 2\nÇarpma İşlemi: 3\nBölme İşlemi: 4')
