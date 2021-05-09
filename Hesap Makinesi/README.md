@@ -1,4 +1,4 @@
-##### Hesap Makinesi
+## Hesap Makinesi
 
 ##### Hesap makinesi 4 temel matematik işlemini -toplama, çıkarma, çarpma, bölme- yapabilmektedir. **If, elif, else** koşullu ifadeleri kullanılmıştır.
 
